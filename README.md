@@ -6,9 +6,16 @@
 
 ---
 
-`Backend`
+`Clone`
 
     git clone https://github.com/montasirrahman/React-Node.js-MySQL-CRUD.git
+
+---
+
+---
+
+`Backend`
+
     cd backend
     npm start
 

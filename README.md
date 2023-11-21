@@ -4,13 +4,6 @@
 
 ##### Connect MySQL with Backend and upload the schema
 
-###### Backend
-``
-git clone https://github.com/montasirrahman/React-Node.js-MySQL-CRUD.git
-cd backend
-npm start
-``
-
 ---
 
 `Backend`
@@ -21,19 +14,11 @@ npm start
 
 ---
 
-###### Frontend
-``
-cd client/Frontend
-npm run dev
-``
-
 ---
 
-code
+`Frontend`
 
-`one tick mark`
-
-    <one tab>
-      <indented>
+    cd client/Frontend
+    npm run dev
 
 ---

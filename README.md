@@ -6,7 +6,7 @@
 
 ###### Backend
 ``
-git clone https://github.com/montasirrahman/React-Node.js-MySQL-CRUD.git
+git clone https://github.com/montasirrahman/React-Node.js-MySQL-CRUD.git \n
 cd backend
 npm start
 ``
